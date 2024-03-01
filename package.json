@@ -12,7 +12,7 @@
         "react-dom": "^18",
         "@types/react": "^18",
         "@types/react-dom": "^18",
-        "@razorpay/blade": "*",
+        "@razorpay/blade": "https://pkg.csb.dev/razorpay/blade/commit/d1916278/@razorpay/blade",
         "styled-components": "^5",
         "@emotion/react": "11.11.1",
         "@table-library/react-table-library": "4.1.7",
